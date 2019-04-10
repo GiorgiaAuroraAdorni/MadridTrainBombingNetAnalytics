@@ -85,7 +85,7 @@
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-\title[Data Analytics: Community Detection]{Madrid Train Bombing Network Analytics} % The short title appears at the bottom of every slide, the full title is only on the title page
+\title[Community Detection]{Madrid Train Bombing Network Analytics} % The short title appears at the bottom of every slide, the full title is only on the title page
 
 %\author[Adorni, Matamoros]{Giorgia Adorni \and Ricardo Matamoros}
 
@@ -93,63 +93,134 @@
 \institute[]{\textit{g.adorni@campus.unimib.it \\ r.matamorosaragon@campus.unimib.it} \\
 \bigskip Università degli Studi di Milano-Bicocca }
 
-
-\date[2018/2019]{Data Analytics 2018-2019} % Date, can be changed to a custom date
-
-
+\date{Data Analytics 2018-2019}
 
 \begin{document}
 
 \begin{frame}
-\titlepage % Print the title page as the first slide
+\titlepage
 \end{frame}
 
 \begin{frame}
-\frametitle{Overview} % Table of contents slide, comment this block out to remove it
-\tableofcontents % Throughout your presentation, if you choose to use \section{} and \subsection{} commands, these will automatically be printed on this slide as an overview of your presentation
+\frametitle{Overview}
+\tableofcontents
 \end{frame}
 
-%----------------------------------------------------------------------------------------
+%------------------------------------------------
 %	PRESENTATION SLIDES
-%----------------------------------------------------------------------------------------
+%------------------------------------------------
 
-%------------------------------------------------
 \section{Descrizione della rete}
-%------------------------------------------------
 
 \begin{frame}
 \frametitle{Descrizione della rete}
 Jose A. Rodriguez, dell'Università di Barcellona, ha creato una rete di persone coinvolte nell'attentato ai treni pendolari a Madrid l'11 marzo 2004. Rodriguez ha utilizzato la stampa dei due maggiori quotidiani spagnoli (El Pais e El Mundo) per ricostruire la rete terroristica. I nomi inclusi erano di quelle persone sospettate di aver partecipato e dei loro parenti. Rodriguez ha specificato 4 tipi di legami che collegano le persone coinvolte:
+
 \begin{itemize}
     \item Fiducia-amicizia (contatto, parentela, collegamenti nel centro telefonico).
     \item Legami con Al Qaeda e con Osama Bin Laden.
     \item Co-partecipazione in campi di addestramento o guerre.
     \item Co-partecipazione a precedenti attacchi terroristici (11 settembre, Casablanca).
 \end{itemize}
+
 Questi quattro sono stati aggiunti insieme fornendo una forza di indice di connessione che va da 1 a 4.
 \end{frame}
 
 %------------------------------------------------
+\section{Analisi macroscopica}
 
 \begin{frame}
-\frametitle{Analisi Misure di Centralità}
+\frametitle{Analisi macroscopica}
+
 
 \end{frame}
 
 %------------------------------------------------
-%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%
-%------------------------------------------------
-\section{Analisi Misure di Centralità}
-%------------------------------------------------
+\section{Analisi delle misure di centralità}
+
+\begin{frame}
+\frametitle{Analisi delle misure di centralità}
+\framesubtitle{Degree Centrality}
+
+
+\end{frame}
 
 %------------------------------------------------
 
 \begin{frame}
-\Huge{\centerline{The End}}
+\frametitle{Analisi delle misure di centralità}
+\framesubtitle{Betweenness Centrality}
+
+
 \end{frame}
 
-%----------------------------------------------------------------------------------------
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Analisi delle misure di centralità}
+\framesubtitle{Closeness Centrality}
+
+
+\end{frame}
+
+%------------------------------------------------
+\begin{frame}
+\frametitle{Analisi delle misure di centralità}
+\framesubtitle{Pagerank Centrality}
+
+
+\end{frame}
+
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Analisi delle misure di centralità}
+\framesubtitle{Eigenvector Centrality}
+
+
+\end{frame}
+
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Analisi delle misure di centralità}
+\framesubtitle{Confronto delle varie misure di centralità}
+
+
+\end{frame}
+
+%------------------------------------------------
+
+\section{Community Detection}
+
+\begin{frame}
+\frametitle{Community Detection}
+
+\end{frame}
+
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Community Detection}
+\framesubtitle{Community Edge Betweenness}
+
+\end{frame}
+
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Community Detection}
+\framesubtitle{Confronto delle comunity attraverso le misure di centralità}
+
+\end{frame}
+
+%------------------------------------------------
+
+
+
+\begin{frame}
+\Huge{\centerline{Grazie per l'attenzione}}
+\end{frame}
 
 \end{document}
