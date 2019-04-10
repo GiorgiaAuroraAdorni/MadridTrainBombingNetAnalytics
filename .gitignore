@@ -1,3 +1,4 @@
+## Jupyter notebook
 MANIFEST
 build
 dist
@@ -41,5 +42,34 @@ config.rst
 
 package-lock.json
 geckodriver.log
-Icon
-Icon
+
+
+## LaTeX
+
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.snm
+*.nav
+*.vrb
+*.synctex.gz
+/presentation/Icon
