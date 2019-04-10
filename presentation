@@ -85,16 +85,18 @@
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-\title[community detection]{Madrid Train Bombing Network Analytics} % The short title appears at the bottom of every slide, the full title is only on the title page
-\author{Giorgia Adorni\\ \and Ricardo Matamoros}
+\title[Data Analytics: Community Detection]{Madrid Train Bombing Network Analytics} % The short title appears at the bottom of every slide, the full title is only on the title page
 
-\institute[UCLA] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
-{
-Data Analytics \\ % Your institution for the title page
-\medskip
-\textit{Assignment 2} % Your email address
-}
-\date{\today} % Date, can be changed to a custom date
+%\author[Adorni, Matamoros]{Giorgia Adorni \and Ricardo Matamoros}
+
+\author[Adorni, Matamoros]{Giorgia Adorni \and Ricardo Matamoros}
+\institute[]{\textit{g.adorni@campus.unimib.it \\ r.matamoros@campus.unimib.it} \\
+\bigskip Università degli Studi di Milano-Bicocca }
+
+
+\date[2018/2019]{Data Analytics 2018-2019} % Date, can be changed to a custom date
+
+
 
 \begin{document}
 
