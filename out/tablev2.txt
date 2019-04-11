@@ -1,0 +1,84 @@
+Centrality measure of:  g
+
+
+               Degree                       Norm. Betweenness                      Closeness                           Pagerank                         Eigenvector            
+
+
+Jamal Zougam             0.906     Semaan Gaby Eid          0.23      Mohamed Chaoui           0.529     Jamal Zougam             0.059     Jamal Zougam             1.0
+Mohamed Chaoui           0.844     Mohamed Chaoui           0.191     Jamal Zougam             0.516     Imad Eddin Barakat       0.049     Imad Eddin Barakat       0.904
+Imad Eddin Barakat       0.688     Abdeluahid Berrak        0.137     Jamal Ahmidan            0.496     Mohamed Chaoui           0.047     Mohamed Chaoui           0.794
+Amer Azizi               0.562     Jamal Zougam             0.135     Abdeluahid Berrak        0.485     Amer Azizi               0.037     Amer Azizi               0.786
+Said Berrak              0.531     Jamal Ahmidan            0.133     Said Berrak              0.485     Naima Oulad Akcha        0.029     Galeb Kalaje             0.631
+
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Centrality measure of:  sg1
+
+
+               Degree                       Norm. Betweenness                      Closeness                           Pagerank                         Eigenvector            
+
+
+Imad Eddin Barakat       0.438     Imad Eddin Barakat       0.189     Abu Musad Alsakaoui      0.727     Imad Eddin Barakat       0.13      Imad Eddin Barakat       1.0
+Jamal Zougam             0.406     Amer Azizi               0.177     Mohamed Atta             0.667     Jamal Zougam             0.115     Jamal Zougam             0.996
+Amer Azizi               0.406     Abu Musad Alsakaoui      0.103     Shakur                   0.667     Amer Azizi               0.102     Amer Azizi               0.85
+Mohamed Chaoui           0.375     Mohamed Chaoui           0.102     Ramzi Binalshibh         0.64      Mohamed Belfatmi         0.088     Mohamed Belfatmi         0.756
+Mohamed Belfatmi         0.344     Jamal Zougam             0.072     Mohamed Chaoui           0.593     Mohamed Chaoui           0.084     Mohamed Chaoui           0.753
+
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Centrality measure of:  sg2
+
+
+               Degree                       Norm. Betweenness                      Closeness                           Pagerank                         Eigenvector            
+
+
+Naima Oulad Akcha        0.438     Naima Oulad Akcha        0.377     Naima Oulad Akcha        0.792     Naima Oulad Akcha        0.114     Naima Oulad Akcha        1.0
+Abderrahim Zbakh         0.375     Abderrahim Zbakh         0.263     Abderrahim Zbakh         0.731     Abderrahim Zbakh         0.1       Abderrahim Zbakh         0.946
+Jamal Ahmidan            0.344     Jamal Ahmidan            0.193     Jamal Ahmidan            0.704     Jamal Ahmidan            0.089     Jamal Ahmidan            0.917
+Hamid Ahmidan            0.312     Hamid Ahmidan            0.088     Hamid Ahmidan            0.679     Hamid Ahmidan            0.077     Hamid Ahmidan            0.906
+Vinay Kholy              0.25      Mohamed Oulad Akcha      0.012     Vinay Kholy              0.633     Vinay Kholy              0.061     Vinay Kholy              0.853
+
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Centrality measure of:  sg3
+
+
+               Degree                       Norm. Betweenness                      Closeness                           Pagerank                         Eigenvector            
+
+
+Mohamed El Egipcio       0.156     Mohamed El Egipcio       0.524     Mohamed El Egipcio       0.7       Mohamed El Egipcio       0.214     Mohamed El Egipcio       1.0
+Mohamed Chedadi          0.125     Mohamed Chedadi          0.333     Abdeluahid Berrak        0.636     Mohamed Chedadi          0.181     Abdeluahid Berrak        0.829
+Abdeluahid Berrak        0.094     Abdeluahid Berrak        0.095     Otman El Gnaut           0.636     Abdeluahid Berrak        0.131     Otman El Gnaut           0.829
+Otman El Gnaut           0.094     Otman El Gnaut           0.095     Mohamed Chedadi          0.583     Otman El Gnaut           0.131     Mohamed Chedadi          0.784
+Fouad El Morabit Anghar  0.062     Fouad El Morabit Anghar  0.095     Fouad El Morabit Anghar  0.583     Moutaz Almallah          0.096     Fouad El Morabit Anghar  0.566
+
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Centrality measure of:  sg4
+
+
+               Degree                       Norm. Betweenness                      Closeness                           Pagerank                         Eigenvector            
+
+
+Abdelkarim el Mejjati    0.188     Abdelkarim el Mejjati    0.554     Abdelkarim el Mejjati    0.727     Taysir Alouny            0.167     Taysir Alouny            1.0
+Taysir Alouny            0.156     Abdelaziz Benyaich       0.25      Taysir Alouny            0.571     Abdelkarim el Mejjati    0.167     Mohamed Bahaiah          0.967
+Anwar Adnan Ahmad        0.125     Taysir Alouny            0.25      Anwar Adnan Ahmad        0.571     Mohamed Bahaiah          0.135     Abdelkarim el Mejjati    0.89
+Mamoun Darkazanli        0.125     Anwar Adnan Ahmad        0.018     Mamoun Darkazanli        0.571     Abdelaziz Benyaich       0.131     Anwar Adnan Ahmad        0.789
+Mohamed Bahaiah          0.125     Mamoun Darkazanli        0.018     Abdelaziz Benyaich       0.533     Anwar Adnan Ahmad        0.11      Mamoun Darkazanli        0.789
+
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Centrality measure of:  sg5
+
+
+               Degree                       Norm. Betweenness                      Closeness                           Pagerank                         Eigenvector            
+
+
+José Emilio Suárez       0.219     Semaan Gaby Eid          0.417     José Emilio Suárez       0.818     Semaan Gaby Eid          0.161     José Emilio Suárez       1.0
+Semaan Gaby Eid          0.219     José Emilio Suárez       0.239     Semaan Gaby Eid          0.818     José Emilio Suárez       0.149     Ivan Granados            0.975
+Emilio Llamo             0.188     Emilio Llamo             0.017     Emilio Llamo             0.75      Ivan Granados            0.122     El Gitanillo             0.975
+Ivan Granados            0.188     Ivan Granados            0.017     Ivan Granados            0.75      Raul Gonzales Perez      0.122     Raul Gonzales Perez      0.975
+Raul Gonzales Perez      0.188     Raul Gonzales Perez      0.017     Raul Gonzales Perez      0.75      El Gitanillo             0.122     Emilio Llamo             0.975
+
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
