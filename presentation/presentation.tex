@@ -131,7 +131,21 @@ Questi quattro sono stati aggiunti insieme fornendo una forza di indice di conne
 
 \begin{frame}
 \frametitle{Analisi macroscopica}
-
+\begin{columns}
+          \column{0.38\linewidth}
+             \centering
+             \includegraphics[height=5cm, width=5cm]{images/weight_d.png}
+           \column{0.58\linewidth}
+              \textbf{Most dangerous concept}\\ \begin{itemize}
+                  \item Degree centrality
+                  \item Betweenness centrality
+                  \item Closeness centrality
+                  \item Page Rank centrality
+                  \item Eigenvector centrality
+              \end{itemize}
+              
+             Tutte le misure considerate tengono conto dei pesi degli archi.
+         \end{columns} 
 
 \end{frame}
 
@@ -142,7 +156,13 @@ Questi quattro sono stati aggiunti insieme fornendo una forza di indice di conne
 \begin{frame}
 \frametitle{Analisi delle misure di centralità}
 \framesubtitle{Degree Centrality}
-
+\begin{columns}
+          \column{0.38\linewidth}
+             \centering
+             \includegraphics[height=5cm, width=5cm]{misure_grafo/degree_all.png}
+           \column{0.58\linewidth}
+              Questa misura di centralità indica il numero di persone che possono essere raggiunte direttamente da questa persona o può essere interpretata come un indicatore del numero di persone con le quali questa persona si relaziona in modo diretto. 
+         \end{columns} 
 
 \end{frame}
 
@@ -151,7 +171,13 @@ Questi quattro sono stati aggiunti insieme fornendo una forza di indice di conne
 \begin{frame}
 \frametitle{Analisi delle misure di centralità}
 \framesubtitle{Betweenness Centrality}
-
+\begin{columns}
+          \column{0.38\linewidth}
+             \centering
+             \includegraphics[height=5cm, width=5cm]{misure_grafo/betwe_all.png}
+           \column{0.58\linewidth}
+              Questa misura indica l'importanza di una persona rispetto alle volte nelle quali viene utilizzata come ponte da altre coppie di nodi, quindi maggiore sarà il valore associato e maggiore sarà la quantità di informazione a disposizione. 
+         \end{columns} 
 
 \end{frame}
 
@@ -160,7 +186,13 @@ Questi quattro sono stati aggiunti insieme fornendo una forza di indice di conne
 \begin{frame}
 \frametitle{Analisi delle misure di centralità}
 \framesubtitle{Closeness Centrality}
-
+\begin{columns}
+          \column{0.38\linewidth}
+             \centering
+             \includegraphics[height=5cm, width=5cm]{misure_grafo/closeness_all.png}
+           \column{0.58\linewidth}
+             Questa misura indica la velocità con la quale una persona riesce a trasmettere certa informazione o interagire con altri nella rete data la sua posizione rispetto alla centralità della rete. 
+         \end{columns} 
 
 \end{frame}
 
@@ -168,7 +200,13 @@ Questi quattro sono stati aggiunti insieme fornendo una forza di indice di conne
 \begin{frame}
 \frametitle{Analisi delle misure di centralità}
 \framesubtitle{Pagerank Centrality}
-
+\begin{columns}
+          \column{0.38\linewidth}
+             \centering
+             \includegraphics[height=5cm, width=5cm]{misure_grafo/pr_all.png}
+           \column{0.58\linewidth}
+        
+         \end{columns} 
 
 \end{frame}
 
@@ -177,19 +215,45 @@ Questi quattro sono stati aggiunti insieme fornendo una forza di indice di conne
 \begin{frame}
 \frametitle{Analisi delle misure di centralità}
 \framesubtitle{Eigenvector Centrality}
-
+\begin{columns}
+          \column{0.38\linewidth}
+             \centering
+             \includegraphics[height=5cm, width=5cm]{misure_grafo/eigen_All.png}
+           \column{0.58\linewidth}
+              
+         \end{columns} 
 
 \end{frame}
 
 %------------------------------------------------
 
-\begin{frame}
-\frametitle{Analisi delle misure di centralità}
-\framesubtitle{Confronto delle varie misure di centralità}
+%\begin{frame}
+%\frametitle{Analisi delle misure di centralità}
+%\framesubtitle{Confronto delle varie misure di centralità}
 
+
+%\end{frame}
+%------------------------------------------
+
+\begin{frame}
+\frametitle{Most Dangerous Persons}
+\framesubtitle{Confronto delle varie misure di centralità}
+\frametitle{Table}
+\begin{table}
+\begin{tabular}{l l l 1 1}
+\toprule
+                                                                                                    
+\textbf{Degree}& \textbf{Betweenness} & \textbf{Closeness} & \textbf{Pagerank}& \textbf{Eigenvector}\\
+\midrule
+1 & 0 & 0 & 0 & 0 \\
+1 & 0 & 0 & 0 & 0 \\
+1 & 0 & 0 & 0 & 0 \\
+\bottomrule
+\end{tabular}
+\caption{Table caption}
+\end{table}
 
 \end{frame}
-
 %------------------------------------------------
 
 \section{Community Detection}
